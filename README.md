@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, I'm Themiya 😊<br>
 
-![7dbc1f3a9aae49f669776aad913e4d30](https://github.com/user-attachments/assets/7a0ce763-6c82-49d3-a803-3df793ede048)
+
 
 
 
