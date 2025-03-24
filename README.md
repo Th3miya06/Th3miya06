@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hello, I'm Themiya 😊<br>
 
-![tumblr_7fab1571dbb6d06a4b8d9add894b41a8_e088883b_1280](https://github.com/user-attachments/assets/8a495894-7257-4dc4-a18c-584da7de9a87)
+![7dbc1f3a9aae49f669776aad913e4d30](https://github.com/user-attachments/assets/7a0ce763-6c82-49d3-a803-3df793ede048)
+
+
 
 
 <br>🎮 Passionate about **gaming, game design, and game development**—anything that involves creativity!  <br>🖥️ **Computer Science Undergraduate**  <br>🚀 Currently working on a **XR project**  <br><br>## 🔧 Skills & Technologies:<br>- **Programming:** Object-Oriented Programming (OOP), Java, Basic C#  <br>- **Game Development:** Learning **Unity** for game development  <br>- **3D & Art:** Learning **Blender** for 3D modeling  <br><br>🌱 Currently Learning:<br>- Unity development  <br>- Blender<br>- C# <br><br>
