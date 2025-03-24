@@ -4,7 +4,7 @@
 <br>🎮 Passionate about **gaming, game design, and game development**—anything that involves creativity!  <br>🖥️ **Computer Science Undergraduate**  <br>🚀 Currently working on a **XR project**  <br><br>## 🔧 Skills & Technologies:<br>- **Programming:** Object-Oriented Programming (OOP), Java, Basic C#  <br>- **Game Development:** Learning **Unity** for game development  <br>- **3D & Art:** Learning **Blender** for 3D modeling  <br><br>🌱 Currently Learning:<br>- Unity development  <br>- Blender<br>- C# <br><br>
 
 
-![Uploading tumblr_0901013c2121ffe2b48a755080bf4523_e6684085_1280.gif…]()
+
 
 
 ## 🌐 Socials:
